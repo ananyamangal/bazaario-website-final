@@ -1,0 +1,8 @@
+{
+  "name": "Bazaario",
+  "description": "Video-first local commerce platform connecting offline markets to online customers.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
